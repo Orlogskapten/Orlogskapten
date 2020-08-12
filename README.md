@@ -4,4 +4,4 @@ I'm a student in mathematics :100:, finance :chart_with_downwards_trend: and inf
 
 
 
-#### My website is [![Netlify Status](https://api.netlify.com/api/v1/badges/cd93f2ba-112f-453c-b445-c5cd3ddb8cb5/deploy-status)](https://app.netlify.com/sites/wenceslas/deploys)
+My website [wenceslas.sc](https://wenceslas.netlify.app/) is [![Netlify Status](https://api.netlify.com/api/v1/badges/cd93f2ba-112f-453c-b445-c5cd3ddb8cb5/deploy-status)](https://app.netlify.com/sites/wenceslas/deploys)
