@@ -1,8 +1,8 @@
 ### Hi! I'm Wenceslas Sanchez. 👋
 
-I'm a student in mathematics :100:, finance :chart_with_downwards_trend: and informatics :computer: fields in 2nd year of college :european_post_office: (ENSAE). Every code lines are there on my :octocat: Github.
+I'm a student in mathematics :100:, finance :chart_with_downwards_trend: and informatics :computer: fields in 2nd year of college :european_post_office: ([ENSAE](https://www.ensae.fr/)). Every code lines are there on my :octocat: Github.
 
-Check up my projects :smiley: :
+Check up my projects :kissing_heart: :
 * [:microscope: New time series forecasting methodology](https://github.com/Orlogskapten/tsNostradamus)
 * [:books: Financial Portfolio L/S and Long Only construction with ML methods (academic project)](https://github.com/Orlogskapten/machine_learning_portfolio)
 * [:books: Music style distances comparison with NLP and autoencodeur (academic projetc )](https://github.com/Orlogskapten/lyricsAnalysis)
